@@ -1,6 +1,7 @@
-### Hi there 👋, my name is Renson 
-#### I am Software Developer
+
 ![I am Software Developer](https://media.istockphoto.com/photos/the-code-is-on-a-laptop-on-a-wooden-table-in-front-of-the-window-in-picture-id1327335521?k=20&m=1327335521&s=612x612&w=0&h=NFEltzbG1VPuZnUsuUG-u4Z50dk4CXg52yZkqTWJYHU=)
+## Hello, my name is Renson 
+
 
 I enjoy creating new products and seeing them being deployed is always a joy. I love learning new things and do hacking on the side so you can also call me blackhat.
 
