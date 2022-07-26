@@ -25,10 +25,6 @@ Skills:  HTML / CSS / PYTHON / DJANGO / NETWORKING
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GitongaRenson&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=GitongaRenson)  
-
-![GitHub metrics](https://metrics.lecoq.io/GitongaRenson)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GitongaRenson)  
 
 ![Profile views](https://gpvc.arturio.dev/GitongaRenson)  
