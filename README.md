@@ -12,7 +12,8 @@ Skills:  HTML / CSS / PYTHON / DJANGO / NETWORKING
 - 👯 I’m looking to collaborate on any Django or web development project that you may be working on 
 - 💬 Ask me about Ask Anything. 
 - 📫 How to reach me: blackhat.renson@gmail.com 
-- ⚡ Fun fact: The Dodge Tomahawk is the world’s fastest motorcycle ever produced. Dodge’s claims of a hypothetical top speed of 675 km/h (420 mph). Tomahawk could cross 0 to 60 mile in just 1.5 seconds. Dodge unveiled this ultimate superbike in 2003. Only 9 of these bad boys produced, all of which carry a price tag around $550000. 
+- ⚡ Fun fact: The Dodge Tomahawk is the world’s fastest motorcycle ever produced. Dodge’s claims of a hypothetical top speed of 675 km/h (420 mph). Tomahawk could cross 0 to 60 mile in just 1.5 seconds. Dodge unveiled this ultimate superbike in 2003. Only 9 of these bad boys produced, all of which carry a price tag around $550000.
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitongarenson)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GitongaRenson)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rensongitonga/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_gitonga_254/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/BlackhatCoded)  
