@@ -5,7 +5,7 @@
 
 I enjoy creating new products and seeing them being deployed is always a joy. I love learning new things and do hacking on the side so you can also call me blackhat.
 
-Skills:  HTML / CSS / PYTHON / DJANGO / NETWORKING
+Skills:  HTML / CSS / PYTHON / DJANGO / .NET / C# / SQL / JAVASCRIPT / NETWORKING
 
 - 🔭 I’m currently working on A Student Study Appplication with Django 
 - 🌱 I’m currently learning Django 
