@@ -11,7 +11,7 @@ Skills:  HTML / CSS / PYTHON / DJANGO / .NET / C# / SQL / JAVASCRIPT / NETWORKIN
 - 🌱 I’m currently learning Django 
 - 👯 I’m looking to collaborate on any Django or web development project that you may be working on 
 - 💬 Ask me about Ask Anything. 
-- 📫 How to reach me: blackhat.renson@gmail.com 
+- 📫 How to reach me: renson.dev@ndava.com
 - ⚡ Fun fact: The Dodge Tomahawk is the world’s fastest motorcycle ever produced. Dodge’s claims of a hypothetical top speed of 675 km/h (420 mph). Tomahawk could cross 0 to 60 mile in just 1.5 seconds. Dodge unveiled this ultimate superbike in 2003. Only 9 of these bad boys produced, all of which carry a price tag around $550000.
 
 
